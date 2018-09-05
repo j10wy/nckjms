@@ -19,7 +19,7 @@ class MyNewView extends PolymerElement {
 		<div class="card">
 		  <div class="circle">1</div>
 		  <h1>New View</h1>
-		  <p>New view!</p>
+			<p>New view!</p>
 		</div>
 	  `;
 	}
